@@ -1,6 +1,6 @@
 class Manifest < Formula
   desc "Living feature documentation for AI-driven development"
-  homepage "https://github.com/manifestdocs/manifest"
+  homepage "https://github.com/dawson-design/manifest"
   license "BUSL-1.1"
   version "0.2.0"
 
