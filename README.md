@@ -26,4 +26,4 @@ brew upgrade manifest
 
 ## License
 
-MIT - Copyright (c) 2025 Alastair Dawson
+MIT - Copyright (c) 2025 Dawson Design Ltd.
