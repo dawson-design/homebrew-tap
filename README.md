@@ -1,12 +1,12 @@
 # Homebrew Tap
 
-Homebrew formulae for [Baseline](https://github.com/baseline-lang/baseline) and [Manifest](https://github.com/manifestdocs/manifest).
+Homebrew formulae for [Baseline](https://github.com/dawson-design/baseline) and [Manifest](https://github.com/dawson-design/manifest).
 
 ## Installation
 
 ```bash
-brew install baseline-lang/tap/baseline
-brew install baseline-lang/tap/manifest
+brew install dawson-design/tap/baseline
+brew install dawson-design/tap/manifest
 ```
 
 ## Available Formulae
@@ -26,4 +26,4 @@ brew upgrade manifest
 
 ## License
 
-MIT - Copyright (c) 2025 Alastair Dawson
+MIT - Copyright (c) 2025 Dawson Design Ltd.
